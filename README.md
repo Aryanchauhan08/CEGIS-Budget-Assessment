@@ -4,13 +4,13 @@ A data science project that extracts, cleans, and analyzes structured financial 
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Extracted structured financial data from **Pages 8–10** of the Uttar Pradesh State Budget 2026-27 (`khand2part2_2026_2027.pdf`) — a Hindi-language PDF. The pipeline handles OCR extraction, data cleaning (including structural column shifts and CID tag artifacts), and produces trend analysis across four financial periods (Actuals 24-25, Budget 25-26, Revised 25-26, Budget 26-27).
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -24,7 +24,7 @@ Extracted structured financial data from **Pages 8–10** of the Uttar Pradesh S
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository and install the required dependencies:
 
@@ -40,7 +40,7 @@ jupyter notebook "CEGIS_Assessment(Aryan_Chauhan).ipynb"
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 | # | Finding |
 |---|---------|
@@ -52,7 +52,7 @@ jupyter notebook "CEGIS_Assessment(Aryan_Chauhan).ipynb"
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── CEGIS_Assessment(Aryan_Chauhan).ipynb   # Main Jupyter notebook
@@ -65,7 +65,7 @@ jupyter notebook "CEGIS_Assessment(Aryan_Chauhan).ipynb"
 
 ---
 
-## 🗂 Pipeline Overview
+##  Pipeline Overview
 
 ```
 PDF (Hindi, Pages 8–10)
@@ -91,7 +91,7 @@ PDF (Hindi, Pages 8–10)
 
 ---
 
-## 📊 How to View
+##  How to View
 
 ### Option 1 — Jupyter Notebook (Full Code + Outputs)
 Run `jupyter notebook` in this directory and open `CEGIS_Assessment(Aryan_Chauhan).ipynb`.
@@ -101,7 +101,7 @@ GitHub renders `.ipynb` files natively — scroll through the notebook directly 
 
 ---
 
-## 📋 Data Source
+##  Data Source
 
 **Source:** Uttar Pradesh State Budget 2026-27 — *Khand 2, Part 2*  
 **Tables Extracted:** Pages 8–10 — Standard Object-wise Statement of Expenditure (Gross), ₹ in Lakhs  
